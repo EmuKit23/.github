@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/EmuKit23/emukit23.github.io/main/assets/img/logo.png" width="30%"><br/>EmuKit</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/EmuKit23/emukit23.github.io/main/assets/img/logo.png" width="30%"><br/>EmuKit - Better emulation</h1>
 EmuKit est un service proposant plusieurs logiciels permettant de mieux gérer des émulateurs. Cela permettera donc une meilleure prise en main des émulateurs, avec nos outils qui vont venir automatiser certains processus.
 
 ## Tableau de nos logiciels
